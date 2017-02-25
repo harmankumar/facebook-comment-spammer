@@ -3,7 +3,7 @@ Facebook Comment Spammer
 
 Added features :
 
-1) Send requests.
+1) Send requests (at most thrice to a person).
 2) Respond to requests
 3) Block the bastards who did not respond to sent requests within a month
 
