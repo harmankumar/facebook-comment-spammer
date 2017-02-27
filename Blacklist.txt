@@ -1,0 +1,11 @@
+static:
+
+[
+  kiran jaswal    //Mom so ...
+]
+
+dynamic:
+
+[
+
+]
