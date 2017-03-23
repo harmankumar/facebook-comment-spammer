@@ -4,8 +4,7 @@ Facebook Comment Spammer
 Added features :
 
 1) Send requests (at most thrice to a person).
-2) Respond to requests
-3) Instantly delete and mark spam requests from the bastards who did not respond to sent requests within a month
+2) Respond to requests (almost instantaneously) based on mutual connections.
 
 ========================
 To use:  
